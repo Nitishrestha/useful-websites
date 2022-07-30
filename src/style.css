@@ -1,0 +1,29 @@
+h1 {
+  background-color: green;
+  color: white;
+  padding: 15px;
+  border-radius: 10px;
+  text-align: center;
+}
+
+h3 {
+  text-align: center;
+}
+
+h2 {
+  background-color: rgb(44, 119, 176);
+  color: rgb(2, 2, 2);
+  padding: 15px;
+  border-radius: 10px;
+  text-align: center;
+}
+
+.button {
+  background-color: rgb(228, 147, 16);
+  color: white;
+  padding: 15px 10px;
+  text-align: center;
+  font-size: 22px;
+  border: none;
+  border-radius: 10px;
+}
